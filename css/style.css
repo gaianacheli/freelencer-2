@@ -1,0 +1,73 @@
+/**header**/
+.blu {
+    background-color: rgba(44, 62, 80, 1);
+}
+.nav_brand, .nav_link {
+    color: white;
+    text-decoration: none;
+}
+.nav_brand {
+    padding-left: 2rem;
+}
+.nav_link {
+    padding-right: 1rem;
+    font-size: 11px;
+}
+/***main***/
+.green {
+    background-color: rgba(26, 188, 156, 1);
+}
+.immagine {
+    width: 100px;
+}
+.white {
+    color: white;
+}
+.bg_white {
+    background-color: white;
+}
+.bg_black {
+    background-color: black;
+}
+.riga {
+    width: 80px;
+    height: 2px; 
+}
+.wd_img {
+    width: 200px;
+    margin-bottom: 1rem;
+}
+.text {
+    font-size: 12px;
+    color: white;
+ }
+.download a {
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem;
+    border-radius: 6px;
+}
+.form_control {  
+    border: none;
+    border-bottom: 1px solid #ced4da;
+    border-radius: 0;
+}
+/***footer***/
+.bg_foot {
+    background-color: rgba(58, 84, 109, 1);
+}
+.icon i {
+    border: 1px solid;
+    border-radius: 20px;
+}
+.facebook, .twitter {
+    padding: 10px;
+}
+.google {
+    padding: 11px 15px;
+}
+.copy {
+    color: white;
+    font-size: 13px;
+}
